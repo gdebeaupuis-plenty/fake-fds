@@ -1,0 +1,7 @@
+setup.py
+fdsclient.egg-info/PKG-INFO
+fdsclient.egg-info/SOURCES.txt
+fdsclient.egg-info/dependency_links.txt
+fdsclient.egg-info/top_level.txt
+lib/__init__.py
+lib/client.py
